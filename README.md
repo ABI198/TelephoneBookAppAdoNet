@@ -1,4 +1,4 @@
-# TelephoneBook Application
+# TelephoneBook Application (Database)
 In this project, a desktop application was developed using N-Tier Architecture. <br />
 <br />
 <b>Technologies Used</b>
