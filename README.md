@@ -1,5 +1,5 @@
-# TelephoneBook Application (Database)
-In this project, a desktop application was developed using N-Tier Architecture. <br />
+# TelephoneBook Application (With Database Connection)
+In this project, a desktop application was developed using N-Tier Architecture and Result Pattern.  <br />
 <br />
 <b>Technologies Used</b>
  * C#
