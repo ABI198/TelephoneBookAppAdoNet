@@ -1,5 +1,5 @@
 # TelephoneBook Application (With Database Connection)
-In this project, a desktop application was developed using N-Tier Architecture and Result Pattern.  <br />
+In this project, a desktop application was developed using N-Tier Architecture and Result Pattern. In addition, instead of using dto pattern, a much more ancient method was preferred and the experience of why dto is so important was gained.  <br />
 <br />
 <b>Technologies Used</b>
  * C#
